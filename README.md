@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Oscar 👋</h1>
 
-<!--
-**Oscrt69/Oscrt69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 About Me:
+- 🎓 I'm currently studying at Sepuluh Nopember Institute of Technology
+- 💻 I love exploring:
+  - AI
+  - Machine Learning
+  - Data Analytics
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Favourite programming languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
+
+
+### 📫 Contact me at:
+- Email: oscaryavat3@gmail.com
+- LinkedIn: Oscaryavat Viryavan

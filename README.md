@@ -16,7 +16,7 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/Oscrt69/Oscrt69/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Oscrt69/snk/output/github-contribution-grid-snake.svg)
 
 
 ## 📫 Contact me at:

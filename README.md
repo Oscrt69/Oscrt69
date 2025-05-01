@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Oscar 👋</h1>
+
 
 ## 🧠 About Me:
 - 🎓 I'm currently studying at Sepuluh Nopember Institute of Technology

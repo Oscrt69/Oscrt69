@@ -12,6 +12,7 @@
   - Data Analytics
 
 
-# 📫 Contact me at:
-- Email: oscaryavat3@gmail.com
+# 📫Get in Touch:
+- Instagram : @yvtvoscar
 - LinkedIn: Oscaryavat Viryavan
+- Email: oscaryavat3@gmail.com

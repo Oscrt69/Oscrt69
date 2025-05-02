@@ -18,7 +18,7 @@
 
 # 📊 My Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscrt69&show_icons=true&theme=radical) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscrt69&layout=compact) <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscrt69&layout=compact&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=ffffff" />
 ## 🔥 Top Contributions
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Oscrt69&repo=Sisop-1-2025-IT26&show_owner=true)](https://github.com/Oscrt69/Sisop-1-2025-IT26)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Oscrt69&repo=Sisop-3-2025-IT26&bg_color=161B22&title_color=FF79C6&text_color=BD93F9)](https://github.com/Oscrt69/Sisop-3-2025-IT26)

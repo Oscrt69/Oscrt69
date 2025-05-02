@@ -1,4 +1,13 @@
-![HI, i’m Oscaryavat Viryavan](https://github.com/user-attachments/assets/55d3fc87-2157-4bf2-9bc9-633226058bd5)
+![HI, i’m Oscaryavat Viryavan](https://github.com/user-attachments/assets/55d3fc87-2157-4bf2-9bc9-633226058bd5) <br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+
 
 # 🧑‍💻 About Me:
 - 🎓 I'm currently studying at Sepuluh Nopember Institute of Technology
@@ -7,14 +16,13 @@
   - Machine Learning
   - Data Analytics
 
-# 🛠 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) <br>
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white) <br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+# 📊 My Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscrt69&show_icons=true&theme=radical) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscrt69&layout=compact) <br>
+## 🔥 Top Contributions
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Oscrt69&repo=Sisop-1-2025-IT26&show_owner=true)](https://github.com/Oscrt69/Sisop-1-2025-IT26)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Oscrt69&repo=Sisop-3-2025-IT26&show_owner=true)](https://github.com/Oscrt69/Sisop-3-2025-IT26)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Oscrt69&repo=Project-1_Strukdat_Kelompok-5&show_owner=true)](https://github.com/Oscrt69/Project-1_Strukdat_Kelompok-5)
 
 # ✌ Get in Touch:
 - Instagram : @yvtvoscar

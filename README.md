@@ -1,4 +1,4 @@
-<img src = "https://github.com/user-attachments/assets/55d3fc87-2157-4bf2-9bc9-633226058bd5" width = "800"> <br>
+<img src = "https://github.com/user-attachments/assets/55d3fc87-2157-4bf2-9bc9-633226058bd5" width = "600"> <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 

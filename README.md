@@ -10,7 +10,7 @@
 
 
 # 🧑‍💻 About Me:
-- 🎓 I'm currently studying at Sepuluh Nopember Institute of Technology
+- 🎓 I'm currently studying at Sepuluh Nopember Institute of Technology 
 - 💻 I love exploring:
   - AI
   - Machine Learning

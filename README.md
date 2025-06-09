@@ -1,31 +1,49 @@
-<img src = "https://github.com/user-attachments/assets/55d3fc87-2157-4bf2-9bc9-633226058bd5" width = "1000"> <br>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-# 🧑‍💻 About Me:
-- 🎓 I'm currently studying at Sepuluh Nopember Institute of Technology 
-- 💻 I love exploring:
-  - AI
-  - Machine Learning
-  - Data Analytics
+###
 
-# 📊 My Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscrt69&show_icons=true&theme=radical) <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscrt69&layout=compact&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=ffffff" />
-## 🔥 Top Contributions
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Oscrt69&layout=compact&bg_color=00000000&title_color=FF79C6&text_color=BD93F9&repo=Sisop-1-2025-IT26&show_owner=true)](https://github.com/Oscrt69/Sisop-1-2025-IT26)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Oscrt69&repo=Sisop-3-2025-IT26&bg_color=161B22&title_color=FF79C6&text_color=BD93F9)](https://github.com/Oscrt69/Sisop-3-2025-IT26)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Oscrt69&repo=Project-1_Strukdat_Kelompok-5&bg_color=161B22&title_color=FF79C6&text_color=BD93F9)](https://github.com/Oscrt69/Project-1_Strukdat_Kelompok-5)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=Oscrt69&layout=compact&bg_color=00000000&title_color=FF79C6&text_color=BD93F9&repo=Game_Algorithm&show_owner=true)](https://github.com/Oscrt69/Game_Algorithm)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-# ✌ Get in Touch:
-- Instagram : @yvtvoscar
-- LinkedIn: Oscaryavat Viryavan
-- Email: oscaryavat3@gmail.com
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###

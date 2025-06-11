@@ -5,9 +5,8 @@
 <h1 align="center">Hey there! I'm Oscar 👋</h1>
 
 <div align="center">
-<a href="https://twitter.com/zelebwr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zelebwr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jonathan zelig sutopo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan zelig sutopo" height="30" width="40" /></a>
-<a href="https://instagram.com/zelebwr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zelebwr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oscaryavat-viryavan-8635b7323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan zelig sutopo" height="30" width="40" /></a>
+<a href="https://instagram.com/yvtvoscar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zelebwr" height="30" width="40" /></a>
 </div>
 
 <br>

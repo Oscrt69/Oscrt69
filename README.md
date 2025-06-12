@@ -30,6 +30,7 @@ My name is Oscaryavat Viryavan. I'm currently studying at Sepuluh Nopember Insti
 <h1 align="left"> 🛠️ Used Tool</h1>
 <div align="center">
   <br>
+  
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="typescript logo"  />
   <img width="12" /> <br>
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="nextjs logo"  />

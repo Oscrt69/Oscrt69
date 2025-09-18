@@ -17,8 +17,7 @@ My name is Oscaryavat Viryavan. I'm currently studying at Sepuluh Nopember Insti
 # 📊 Github Stats:
 ### 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oscrt69&show_icons=true&theme=radical"  /> <br>
-<img/><img>
+  <img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscrt69&layout=compact&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=ffffff"  />
   <img src="https://streak-stats.demolab.com?user=Oscrt69&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="141" alt="streak graph"  />
 <img/><img>

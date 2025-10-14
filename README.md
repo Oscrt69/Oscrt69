@@ -50,6 +50,18 @@ My name is Oscaryavat Viryavan. I'm currently studying at Sepuluh Nopember Insti
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="tailwindcss logo"  />
   <img width="12" /> <br>
+  <img src="https://skillicons.dev/icons?i=kali" height="60" alt="tailwindcss logo"  />
+  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="tailwindcss logo"  />
+  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="tailwindcss logo"  />
+  <img width="12" /> <br>
+  <img src="https://skillicons.dev/icons?i=expressjs" height="60" alt="tailwindcss logo"  />
+  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=npm" height="60" alt="tailwindcss logo"  />
+  <img width="12" /> <br>
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="tailwindcss logo"  />
+  <img width="12" /> 
 </div>
 <h1 align="left">🤝Contribution Stats:</h1>
 <div>
